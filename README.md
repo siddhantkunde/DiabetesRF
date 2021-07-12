@@ -1,2 +1,2 @@
-# DiabetesRF
+# Diabetesinternship
 Diabetes prediction
